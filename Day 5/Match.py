@@ -13,6 +13,8 @@ match num:
         print("two condition met")
     case 3:
         print("third condition met")
+    case 4:
+        print("Fourth condition met")
     case _:
         print("number not between 1 and 3")
         '''
